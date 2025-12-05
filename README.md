@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CLICK one-word domains still available to buy.
 
-This dataset contains 4,241 .CLICK one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,238 .CLICK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CLICK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=click-oneword-domains&utm_content=description.top) (4,243) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.CLICK one word domain
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.click  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.click      | premium   | 43       | 2%     | 5      |           |         |         |
-| abandoned.click  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.click  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.click    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.click     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.click   | available | 54       | 1%     | 8      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.CLICK one word domain
 | abaxial.click    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.click   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.click  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.click  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.click  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.click | available | 56       | 1%     | 10     |           |         |         |
 | abducens.click   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.click   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.CLICK one word domain
 | aberdonian.click | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.click   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.click    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.click  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.click  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.click    | available | 106      | 5%     | 7      |           |         |         |
 | abient.click     | available | 54       | 1%     | 6      |           |         |         |
 | ability.click    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CLICK one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
