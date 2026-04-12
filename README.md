@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .click one-word domains from Uniqu
 
 **Public extract:** 8,141 rows · **Live catalog:** 8,141 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/click`  
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | aesthetic.click  | available | $17.98    | —             | 88             | 29     | 9      | namecheap       |
 | supporter.click  | resell    | —         | —             | 60             | 97     | 9      | Dynadot, LLC    |
 | power.click      | premium   | $455      | $650          | 98             | 62     | 5      | namecheap       |
-| stretch.click    | available | $17.98    | —             | 100            | 26     | 7      | namecheap       |
+| gross.click      | available | $17.98    | —             | 64             | 26     | 5      | namecheap       |
 | camper.click     | resell    | —         | —             | 69             | 80     | 6      | Spaceship, Inc. |
 | seventeen.click  | premium   | $91       | $130          | 84             | 62     | 9      | namecheap       |
-| gross.click      | available | $17.98    | —             | 64             | 26     | 5      | namecheap       |
+| stretch.click    | available | $17.98    | —             | 100            | 24     | 7      | namecheap       |
 | box.click        | resell    | —         | —             | 68             | 78     | 3      | Spaceship, Inc. |
 | enterprise.click | premium   | $91       | $130          | 68             | 61     | 10     | namecheap       |
-| allied.click     | available | $17.98    | —             | 74             | 23     | 6      | namecheap       |
-| mini.click       | resell    | —         | —             | 70             | 70     | 4      | Dynadot, LLC    |
-| alpha.click      | premium   | $455      | $650          | 90             | 53     | 5      | namecheap       |
 | defense.click    | available | $17.98    | —             | 70             | 23     | 7      | namecheap       |
+| mini.click       | resell    | —         | —             | 70             | 70     | 4      | Dynadot, LLC    |
+| alpha.click      | premium   | $455      | $650          | 90             | 54     | 5      | namecheap       |
+| production.click | available | $17.98    | —             | 70             | 23     | 10     | namecheap       |
 | cloud.click      | resell    | —         | —             | 70             | 59     | 5      | Dynadot, LLC    |
 | athletics.click  | premium   | $91       | $130          | 69             | 52     | 9      | namecheap       |
-| production.click | available | $17.98    | —             | 70             | 23     | 10     | namecheap       |
+| efficient.click  | available | $17.98    | —             | 90             | 22     | 9      | namecheap       |
 | here.click       | resell    | —         | —             | 130            | 58     | 4      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
