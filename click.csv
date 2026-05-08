@@ -298,6 +298,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b319efa-d1ed-46db-88f9-f19d60e6ae04,strikeablow.click,available,1.99,,70,0,13,name.com,,
 1b32ec8e-98c9-4869-b908-9ea89273b6b2,privatestock.click,available,1.99,,64,5,13,name.com,,
 1b3ccc29-adc3-425c-b91e-e5569e64678a,wars.click,premium,87.5,,48,10,4,name.com,,
+1b6fb46b-82f5-48ea-82a9-5094e5b28ffa,taxreturn.click,premium,,,68,8,10,,,
 1bdf730f-4916-4f03-8a9a-d71c35fd062f,wellmanaged.click,available,1.99,,60,4,12,name.com,,
 1be2e3a1-8093-414c-b0fd-320cf23ca208,keepsomebodyposted.click,available,1.99,,46,0,20,name.com,,
 1c2995e9-378c-49bd-9be1-896e131bed96,determination.click,available,1.99,,70,9,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 60095546-ee68-4cfa-bb1b-1dec10ce2a1e,breaks.click,available,1.99,,52,10,6,name.com,,
 6043e058-fc37-4b01-8f23-571fcda90e47,abides.click,available,1.99,,70,4,6,name.com,,
 6068e8fd-c3e3-446c-ad59-e2db8cb29faa,getround.click,available,1.99,,74,0,9,name.com,,
-608aad65-4e08-4671-8a7e-37ef6235f0cc,affects.click,available,1.99,,54,4,7,name.com,,
