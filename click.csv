@@ -681,6 +681,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 41159c22-02a9-41de-bdfd-d38e71aaa516,deepfried.click,available,1.99,,74,6,10,name.com,,
 412d0cb5-2474-4785-b76e-8c02738e8d5d,liquors.click,available,1.99,,52,7,7,name.com,,
 4142fb5e-e1f3-42b6-af18-7812536bb82a,ventilators.click,available,1.99,,48,4,11,name.com,,
+41452a10-6754-4f85-b026-1c2170689025,ondemand.click,premium,,,72,26,9,,,
 416f4626-40f1-409c-9191-a5b7bbc59dd9,coffeeroyal.click,available,1.99,,80,1,12,name.com,,
 418b5a8b-cbbf-46d1-8915-9f662f55fe7d,wheels.click,premium,87.5,,76,20,6,name.com,,
 419a6c61-3c1c-4694-945f-9a44fb6c1aed,generations.click,available,1.99,,56,20,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5ff37167-1c39-4a96-b4c7-712fd6cf7e54,accountspayable.click,available,1.99,,62,4,16,name.com,,
 5ff993e3-0ea4-4309-a7c4-64bb252dbd1f,foes.click,premium,87.5,,46,6,4,name.com,,
 60095546-ee68-4cfa-bb1b-1dec10ce2a1e,breaks.click,available,1.99,,52,10,6,name.com,,
-6043e058-fc37-4b01-8f23-571fcda90e47,abides.click,available,1.99,,70,4,6,name.com,,
