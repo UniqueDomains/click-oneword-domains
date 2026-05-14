@@ -740,7 +740,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 46896b59-1181-4a7d-a0e1-bf522ee3efa8,choices.click,available,1.99,,60,12,7,name.com,,
 4690f517-2e36-469d-8764-a95335643d3d,profiled.click,available,1.99,,52,7,8,name.com,,
 4699a87b-20cd-4960-80ce-249c1bfaeaae,packages.click,available,1.99,,54,13,8,name.com,,
-46ac453a-dc23-48f4-ba5e-87e99048c40b,herbalmedicine.click,available,1.99,,70,4,15,name.com,,
+46ac453a-dc23-48f4-ba5e-87e99048c40b,herbalmedicine.click,available,1.99,,70,3,15,name.com,,
 46b42814-e603-4f36-b215-5a718ece5cd0,shorted.click,available,1.99,,61,4,7,name.com,,
 46b54861-ec2c-4b01-ba74-c80d2f0ce9c3,requires.click,available,1.99,,58,4,8,name.com,,
 476d7fbd-245b-4951-be18-ce1f0895057d,disinfection.click,available,1.99,,74,5,12,name.com,,
