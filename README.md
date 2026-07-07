@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .click one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,817 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,817 domains · **Median ask:** $26.89 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,817 domains · **Median ask:** $44.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/click`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/click`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CLICK one-word domain
 
 ### Files
 
-- `click.csv` — public CSV extract (1,000 rows)
-- `click.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `click.csv`, public CSV extract (1,000 rows)
+- `click.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------- |
-| neuroscience.click | available | $1.99     | —             | 80             | 37     | 12     | name.com      |
-| winners.click      | resell    | —         | —             | 60             | 81     | 7      | 1API GmbH     |
-| Chanel.click       | premium   | $490      | $700          | 80             | 77     | 6      | namecheap     |
-| spectra.click      | available | $1.99     | —             | 62             | 34     | 7      | name.com      |
-| schools.click      | resell    | —         | —             | 72             | 24     | 7      | NameSilo, LLC |
-| donuts.click       | premium   | $87.50    | —             | 54             | 62     | 6      | name.com      |
-| backyard.click     | available | $1.99     | —             | 80             | 27     | 9      | name.com      |
-| mortgages.click    | resell    | —         | —             | 50             | 16     | 9      | Porkbun LLC   |
-| travelers.click    | premium   | $87.50    | —             | 58             | 61     | 9      | name.com      |
-| Keith.click        | available | $17.98    | —             | 66             | 25     | 5      | namecheap     |
-| proteins.click     | resell    | —         | —             | 52             | 8      | 8      | OVH sas       |
-| Tools.click        | premium   | $490      | $700          | 56             | 40     | 5      | namecheap     |
-| stadia.click       | available | $1.99     | —             | 66             | 22     | 6      | name.com      |
-| justin.click       | premium   | $437.50   | —             | 58             | 38     | 7      | name.com      |
-| unicorns.click     | available | $1.99     | —             | 73             | 21     | 8      | name.com      |
-| tokens.click       | premium   | $87.50    | —             | 51             | 36     | 6      | name.com      |
-| smartest.click     | available | $1.99     | —             | 64             | 20     | 8      | name.com      |
-| aliens.click       | premium   | $87.50    | —             | 56             | 35     | 6      | name.com      |
-| generations.click  | available | $1.99     | —             | 56             | 20     | 11     | name.com      |
-| slots.click        | premium   | $437.50   | —             | 49             | 31     | 5      | name.com      |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ttyl.click   | available | $1.99     | —             | low            | low    | 4      | name.com        |
+| art.click    | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
+| ana.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| bland.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| ass.click    | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC     |
+| ate.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| Nicky.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| box.click    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
+| bae.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| orso.click   | available | $1.99     | $20.99        | medium         | low    | 5      | name.com        |
+| usa.click    | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
+| beg.click    | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
+| abasic.click | available | $1.99     | $20.99        | medium         | low    | 6      | name.com        |
+| cafe.click   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| con.click    | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
+| abject.click | available | $1.99     | $20.99        | high           | low    | 6      | name.com        |
+| epic.click   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| dew.click    | premium   | $87.50    | —             | medium         | low    | 3      | name.com        |
+| abkhaz.click | available | $15.98    | —             | high           | low    | 6      | namecheap       |
+| fast.click   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names in the .click extension. The set ranges from broad dictionary words like brilliant.click and alive.click to more specific terms like environmental.click and proficient.click. That makes the selection useful for both buyers seeking low-entry inventory and founders weighing a distinctive, low-cost brand. The median ask is 26.89, which keeps pricing accessible, but the extension itself is more niche than legacy choices. When comparing these domains, prioritize simple spelling, immediate comprehension, and a word that still reads naturally with “click” after it. Stronger options feel intentional, not forced.
+This selection covers 10,817 one-word and short-phrase .click domain names, with a median asking price near $45. The mix ranges from plain everyday words like girls.click and gingerbread.click to compact phrases such as dogsit.click and keepfit.click, plus brand-style entries like Snickers.click. Because .click is an open, low-barrier TLD, the pool is large and varied in tone, length, and word type. When comparing these domains, weigh the asking price against likely renewal cost, check for trademark overlap on brand-style words, and judge how easily each name reads aloud before shortlisting it for a project or portfolio.
 
-- All results are one-word domains in the .click TLD
-- 10,806 domains in this selection; median ask is 26.89
-- Best fits are clear, memorable words that pair well with .click
-- Check wording for trademark overlap before committing
+- 10,817 one-word .click domains, median ask near $45
+- Mix of everyday words, verbs, and brand-style names
+- Includes names like Snickers.click and dogsit.click
+- Updated daily for fresh pricing and selection
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
