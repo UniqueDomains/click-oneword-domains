@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .click one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,817 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,817 domains · **Median ask:** $44.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,817 domains · **Median ask:** $40.74 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/click`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ttyl.click   | available | $1.99     | —             | low            | low    | 4      | name.com        |
-| art.click    | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
-| ana.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| bland.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
-| ass.click    | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC     |
-| ate.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| Nicky.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
-| box.click    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
-| bae.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| orso.click   | available | $1.99     | $20.99        | medium         | low    | 5      | name.com        |
-| usa.click    | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
-| beg.click    | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
-| abasic.click | available | $1.99     | $20.99        | medium         | low    | 6      | name.com        |
-| cafe.click   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| con.click    | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| abject.click | available | $1.99     | $20.99        | high           | low    | 6      | name.com        |
-| epic.click   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| dew.click    | premium   | $87.50    | —             | medium         | low    | 3      | name.com        |
-| abkhaz.click | available | $15.98    | —             | high           | low    | 6      | namecheap       |
-| fast.click   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| ttyl.click  | available | $1.99     | —             | low            | low    | 4      | name.com        |
+| art.click   | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
+| abo.click   | premium   | $87.50    | $125          | low            | low    | 3      | name.com        |
+| xxix.click  | available | $1.80     | $17.98        | low            | low    | 4      | namecheap       |
+| ass.click   | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC     |
+| ana.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| bland.click | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| box.click   | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
+| ate.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| lxxii.click | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
+| usa.click   | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
+| bae.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| Nicky.click | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| cafe.click  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| beg.click   | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
+| orso.click  | available | $1.99     | $20.99        | medium         | low    | 5      | name.com        |
+| epic.click  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| con.click   | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
+| xcvii.click | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
+| fast.click  | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,7 +95,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 | ----------------------- | ------------------------------------------ |
 | 1,000-row public sample | 10,817 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 10 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
