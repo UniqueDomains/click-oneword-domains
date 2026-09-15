@@ -508,7 +508,7 @@ acddbb4c-0fc9-44c4-a320-e48160d3e62b,loop.click,premium,437.5,,high,high,4,name.
 87ae49e3-d8f8-4740-a996-aebe5103535d,rowingboat.click,available,1.99,,high,low,11,name.com,,
 e8df4740-4c21-4b5f-b37b-672a154b46dc,full.click,premium,87.5,,medium,low,4,name.com,,
 ee893387-010a-4de3-a74b-fe63858a8e1f,lady.click,premium,87.5,,high,low,4,name.com,,
-08b32c9e-6eb6-4cb8-bc7d-fe42881d2a4a,rain.click,premium,437.5,,high,low,4,name.com,,
+08b32c9e-6eb6-4cb8-bc7d-fe42881d2a4a,rain.click,premium,437.5,625,medium,low,4,name.com,,
 016d59b9-e21f-4bee-b22b-6521e88f73dd,seventieth.click,available,1.8,17.98,low,low,10,namecheap,,
 0d310433-b820-46da-b891-17ba065377c6,refrigerator.click,available,1.99,,high,low,12,name.com,,
 b5fe489e-72bc-4033-8b5a-3286bf21939d,allied.click,available,1.99,20.99,high,low,6,name.com,,
@@ -869,7 +869,7 @@ b5da1e7b-ee1c-4495-884d-49782ff1d063,orgiastic.click,available,1.8,17.98,low,low
 387e76c4-c335-4115-b788-3f9677f830e1,quarterof.click,available,1.99,,low,low,10,name.com,,
 892b6ad7-8ad3-4a7f-a361-5f6fc96f382e,buzzing.click,available,,,medium,low,7,,,
 ce0eaa25-59c8-4366-ab11-f9bbd02e7675,axiomatic.click,available,1.8,17.98,low,low,9,namecheap,,
-85e2df0f-2938-4cda-82fd-883592e62274,think.click,premium,437.5,,high,medium,5,name.com,,
+85e2df0f-2938-4cda-82fd-883592e62274,think.click,premium,455,650,medium,medium,5,namecheap,,
 44ed3033-99c9-4ce1-9d21-b03f23fb31ad,ticking.click,available,1.99,,medium,low,7,name.com,,
 a2b4c64a-283d-4a84-8428-d4de14fa5dbe,art.click,resell,,,high,medium,3,1API GmbH,25/11/2014 16:00,25/11/2034 16:00
 4a97b2e2-56d7-4075-89d2-69f43accde53,sep.click,premium,87.5,,high,low,3,name.com,,
