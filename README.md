@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .click one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,853 domains · **Median ask:** $25.84 · **High-demand under $2,500:** 17
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/click`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| ttyl.click  | available | $1.99     | —             | low            | low    | 4      | name.com        |
-| art.click   | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
-| abo.click   | premium   | $87.50    | $125          | low            | low    | 3      | name.com        |
-| xxix.click  | available | $1.80     | $17.98        | low            | low    | 4      | namecheap       |
-| ass.click   | resell    | —         | —             | low            | low    | 3      | Porkbun LLC     |
-| ana.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| areal.click | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
-| box.click   | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
-| ate.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| bland.click | available | $1.99     | —             | medium         | low    | 5      | name.com        |
-| usa.click   | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
-| bae.click   | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
-| lxxii.click | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
-| cafe.click  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
-| beg.click   | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
-| Nicky.click | available | $1.99     | —             | medium         | low    | 5      | name.com        |
-| epic.click  | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
-| con.click   | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
-| orso.click  | available | $1.99     | $20.99        | medium         | low    | 5      | name.com        |
-| fast.click  | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC    |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| beauty.click | premium   | $87.50    | —             | high           | low    | 6      | name.com        |
+| wrong.click  | premium   | $87.50    | —             | high           | low    | 5      | name.com        |
+| ttyl.click   | available | $1.99     | —             | low            | low    | 4      | name.com        |
+| art.click    | resell    | —         | —             | high           | medium | 3      | 1API GmbH       |
+| abo.click    | premium   | $87.50    | $125          | low            | low    | 3      | name.com        |
+| xxix.click   | available | $1.80     | $17.98        | low            | low    | 4      | namecheap       |
+| ass.click    | resell    | —         | —             | low            | low    | 3      | Porkbun LLC     |
+| ana.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| areal.click  | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
+| box.click    | resell    | —         | —             | medium         | high   | 3      | Spaceship, Inc. |
+| ate.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| bland.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| usa.click    | resell    | —         | —             | high           | medium | 3      | NAMECHEAP       |
+| bae.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com        |
+| lxxii.click  | available | $1.80     | $17.98        | low            | low    | 5      | namecheap       |
+| cafe.click   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| beg.click    | premium   | $437.50   | —             | medium         | low    | 3      | name.com        |
+| Nicky.click  | available | $1.99     | —             | medium         | low    | 5      | name.com        |
+| epic.click   | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| con.click    | premium   | $437.50   | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
