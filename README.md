@@ -1,10 +1,10 @@
-# Available .CLICK One-Word Domains (26,598)
+# Available .CLICK One-Word Domains (27,963)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C598%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C963%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .click one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,598 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,963 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,598 domains · **Median ask:** $52.88 · **High-demand under $2,500:** 47
+**Public extract:** 1,000 rows · **Live catalog:** 27,963 domains · **Median ask:** $52.73 · **High-demand under $2,500:** 47
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/click`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                           |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------- |
-| cdna.click   | available | $1.99     | $10.92        | medium         | low    | 4      | dynadot                             |
+| anya.click   | available | $1.24     | $10.55        | high           | low    | 4      | spaceship                           |
 | cafe.click   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                     |
 | acc.click    | premium   | $116      | $116          | high           | low    | 3      | namesilo                            |
-| eine.click   | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo                            |
+| brac.click   | available | $1.24     | $10.55        | medium         | low    | 4      | spaceship                           |
 | fast.click   | resell    | —         | —             | high           | medium | 4      | Dynadot, LLC                        |
 | adz.click    | premium   | $116      | $116          | medium         | low    | 3      | namesilo                            |
-| frye.click   | available | $1.24     | $10.55        | medium         | low    | 4      | spaceship                           |
+| cdna.click   | available | $1.99     | $10.92        | medium         | low    | 4      | dynadot                             |
 | logo.click   | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                        |
 | apt.click    | premium   | $87.50    | $125          | high           | low    | 3      | name.com                            |
-| gott.click   | available | $1.80     | $17.98        | medium         | low    | 4      | namecheap                           |
+| eine.click   | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo                            |
 | part.click   | resell    | —         | —             | high           | low    | 4      | Dynadot, LLC                        |
 | ate.click    | premium   | $87.50    | —             | high           | low    | 3      | name.com                            |
-| haag.click   | available | $1.54     | $10.81        | medium         | low    | 4      | porkbun                             |
+| frye.click   | available | $1.24     | $10.55        | medium         | low    | 4      | spaceship                           |
 | audio.click  | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC                        |
 | avo.click    | premium   | $116      | $116          | high           | low    | 3      | namesilo                            |
-| kahn.click   | available | $2.19     | $12.99        | high           | low    | 4      | namesilo                            |
+| gott.click   | available | $1.80     | $17.98        | medium         | low    | 4      | namecheap                           |
 | booth.click  | resell    | —         | —             | high           | low    | 5      | GMO Internet, Inc. d/b/a Onamae.com |
 | csp.click    | premium   | $72.65    | $103.70       | high           | low    | 3      | spaceship                           |
-| ruiz.click   | available | $2.19     | $12.99        | medium         | low    | 4      | namesilo                            |
+| haag.click   | available | $1.54     | $10.81        | medium         | low    | 4      | porkbun                             |
 | doctor.click | resell    | —         | —             | high           | low    | 6      | 1API GmbH                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,598 live domains                        |
+| 1,000-row public sample | 27,963 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 47 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLICK One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
